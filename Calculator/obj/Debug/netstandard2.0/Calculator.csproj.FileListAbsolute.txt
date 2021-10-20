@@ -1,0 +1,15 @@
+/Users/dyanncameron/Xamarin/Calculator/Calculator/Calculator/bin/Debug/netstandard2.0/Calculator.deps.json
+/Users/dyanncameron/Xamarin/Calculator/Calculator/Calculator/bin/Debug/netstandard2.0/Calculator.dll
+/Users/dyanncameron/Xamarin/Calculator/Calculator/Calculator/bin/Debug/netstandard2.0/ref/Calculator.dll
+/Users/dyanncameron/Xamarin/Calculator/Calculator/Calculator/bin/Debug/netstandard2.0/Calculator.pdb
+/Users/dyanncameron/Xamarin/Calculator/Calculator/Calculator/obj/Debug/netstandard2.0/Calculator.csproj.AssemblyReference.cache
+/Users/dyanncameron/Xamarin/Calculator/Calculator/Calculator/obj/Debug/netstandard2.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dyanncameron/Xamarin/Calculator/Calculator/Calculator/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dyanncameron/Xamarin/Calculator/Calculator/Calculator/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/dyanncameron/Xamarin/Calculator/Calculator/Calculator/obj/Debug/netstandard2.0/Calculator.AssemblyInfoInputs.cache
+/Users/dyanncameron/Xamarin/Calculator/Calculator/Calculator/obj/Debug/netstandard2.0/Calculator.AssemblyInfo.cs
+/Users/dyanncameron/Xamarin/Calculator/Calculator/Calculator/obj/Debug/netstandard2.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/dyanncameron/Xamarin/Calculator/Calculator/Calculator/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dyanncameron/Xamarin/Calculator/Calculator/Calculator/obj/Debug/netstandard2.0/Calculator.dll
+/Users/dyanncameron/Xamarin/Calculator/Calculator/Calculator/obj/Debug/netstandard2.0/ref/Calculator.dll
+/Users/dyanncameron/Xamarin/Calculator/Calculator/Calculator/obj/Debug/netstandard2.0/Calculator.pdb

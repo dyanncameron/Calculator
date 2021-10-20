@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BWfsRkWLIv/+eUVXiBrmFiRo1grWUrhKeUZ53oDOS4s6S5iFza6nrRyVdyhDPC3dbElDK3NZztenH6e0TODmew==",
+  "success": true,
+  "projectFilePath": "/Users/dyanncameron/Xamarin/Calculator/Calculator/Calculator.iOS/Calculator.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/dyanncameron/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/dyanncameron/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/dyanncameron/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

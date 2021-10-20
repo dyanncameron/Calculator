@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ErMLE6iUH5o/IZhSFJLy4g56Zj+T2g6No3F3THO4E1xOMT08KV50+4SdYvceGIe8rgL5BUJad3/VWoLUeL49mg==",
+  "success": true,
+  "projectFilePath": "/Users/dyanncameron/Xamarin/Calculator/Calculator/Calculator/Calculator.csproj",
+  "expectedPackageFiles": [
+    "/Users/dyanncameron/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/dyanncameron/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/dyanncameron/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/dyanncameron/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/dyanncameron/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
